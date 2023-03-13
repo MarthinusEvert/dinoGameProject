@@ -1,3 +1,5 @@
+//CactiController is for the settings of the cactus and how it will show up and when.
+
 import Cactus from "./Cactus.js";
 
 export default class CactiController {

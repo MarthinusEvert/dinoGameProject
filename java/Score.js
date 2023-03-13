@@ -1,3 +1,5 @@
+// In score we use the local storage of the device to store the highscore.
+
 export default class Score {
     score = 0;
     HIGH_SCORE_KEY = "highScore";
